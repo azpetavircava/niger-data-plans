@@ -55,3 +55,10 @@ layout: default
 ## 五、 关键注意事项：钱要花在刀刃上
 
 1.  **流量消耗快？正常！** 热带高温下，手机后台应用刷新、定位服务都在偷偷“喝水”。出发前关掉自动更新、云备份，地图下载离线包。**流量就像沙漠
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Niger SIM 卡购买与激活指南](https://faciylike.github.io/niger-sim-guides)
